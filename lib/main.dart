@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ),
       home: LivePage(
         liveID: '1',
-        isHost: true,
+        isHost: false,
       ),
     );
   }
